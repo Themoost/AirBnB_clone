@@ -2041,7 +2041,5 @@ Enjoy your first console!
 
 No unittests needed for the console
 
-Repo:
-
 GitHub repository: AirBnB_clone
 File: console.py, models/engine/file_storage.py, tests/:
